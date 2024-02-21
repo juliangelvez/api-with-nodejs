@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "nombre_libro": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "año": 1967
+    },
+    {
+      "id": 2,
+      "nombre_libro": "1984",
+      "autor": "George Orwell",
+      "año": 1949
+    }
+  ]
+}

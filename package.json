@@ -1,0 +1,29 @@
+{
+  "name": "simple-nodejs-api",
+  "version": "1.0.0",
+  "description": "my firs api with nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliangelvez/api-with-nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Julian Gelvez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliangelvez/api-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/juliangelvez/api-with-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
